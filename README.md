@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/Abhisekchikun/dsaJava/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhisekchikun/dsaJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhisekchikun/dsaJava/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
