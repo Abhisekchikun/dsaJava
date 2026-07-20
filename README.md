@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhisekchikun/dsaJava/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhisekchikun/dsaJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhisekchikun/dsaJava/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [0031-next-permutation](https://github.com/Abhisekchikun/dsaJava/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhisekchikun/dsaJava/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -53,6 +55,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Abhisekchikun/dsaJava/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
