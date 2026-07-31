@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Abhisekchikun/dsaJava/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhisekchikun/dsaJava/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Abhisekchikun/dsaJava/tree/master/0048-rotate-image) |
@@ -64,6 +65,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhisekchikun/dsaJava/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
