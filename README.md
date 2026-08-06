@@ -63,6 +63,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Abhisekchikun/dsaJava/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhisekchikun/dsaJava/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
 ## Binary Search
