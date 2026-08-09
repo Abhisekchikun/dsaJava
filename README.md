@@ -18,6 +18,7 @@
 | [0088-merge-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Abhisekchikun/dsaJava/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhisekchikun/dsaJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhisekchikun/dsaJava/tree/master/0283-move-zeroes) |
@@ -82,6 +83,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
