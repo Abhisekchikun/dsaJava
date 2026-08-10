@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhisekchikun/dsaJava/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Abhisekchikun/dsaJava/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhisekchikun/dsaJava/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
@@ -77,6 +78,7 @@
 | [0035-search-insert-position](https://github.com/Abhisekchikun/dsaJava/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhisekchikun/dsaJava/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Abhisekchikun/dsaJava/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Abhisekchikun/dsaJava/tree/master/0704-binary-search) |
