@@ -70,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/Abhisekchikun/dsaJava/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhisekchikun/dsaJava/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/Abhisekchikun/dsaJava/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Abhisekchikun/dsaJava/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhisekchikun/dsaJava/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Abhisekchikun/dsaJava/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +102,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Abhisekchikun/dsaJava/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Abhisekchikun/dsaJava/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
