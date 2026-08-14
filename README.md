@@ -70,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/Abhisekchikun/dsaJava/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhisekchikun/dsaJava/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Abhisekchikun/dsaJava/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/Abhisekchikun/dsaJava/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Abhisekchikun/dsaJava/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
@@ -106,4 +108,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Abhisekchikun/dsaJava/tree/master/1903-largest-odd-number-in-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhisekchikun/dsaJava/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
