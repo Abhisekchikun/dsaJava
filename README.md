@@ -25,6 +25,7 @@
 | [0283-move-zeroes](https://github.com/Abhisekchikun/dsaJava/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhisekchikun/dsaJava/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Abhisekchikun/dsaJava/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Abhisekchikun/dsaJava/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhisekchikun/dsaJava/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Abhisekchikun/dsaJava/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Abhisekchikun/dsaJava/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Abhisekchikun/dsaJava/tree/master/0073-set-matrix-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Abhisekchikun/dsaJava/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Abhisekchikun/dsaJava/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Abhisekchikun/dsaJava/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhisekchikun/dsaJava/tree/master/0231-power-of-two) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Abhisekchikun/dsaJava/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
