@@ -4,8 +4,7 @@ import java.util.*;
 public class Solution {
 
     public static int binarySearch(int[] nums, int low, int high, int target) {
-        if (low > high) return -1; // Base case: target not found
-
+        if (low > high) return -1; 
         int mid = (low + high) / 2;
 
         if (nums[mid] == target) return mid;
